@@ -1,0 +1,152 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter from a dissenter to the divines of the Church of England in order to a union</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41605</idno>
+            <idno type="STC">Wing G1330</idno>
+            <idno type="STC">ESTC R15793</idno>
+            <idno type="EEBO-CITATION">13601026</idno>
+            <idno type="OCLC">ocm 13601026</idno>
+            <idno type="VID">100737</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41605)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100737)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 788:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter from a dissenter to the divines of the Church of England in order to a union</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Randal Taylor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Authorship uncertain; has been ascribed to John Gother.  Cf. NUC pre-1956.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imprint partially false; probable publisher Henry Hills.  Cf. NUC pre-1956.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:100737:1"/>
+            <pb n="1" facs="tcp:100737:1" rendition="simple:additions"/>
+            <head>A LETTER FROM A DISSENTER To the <hi>DIVINES</hi> of the Church of England, In order to a UNION.</head>
+            <p>THIS is to let you know, Re<g ref="char:EOLhyphen"/>verend Sirs, how ſenſible I and our Brethren are of the great Change we perceive in <hi>your Pulpits:</hi> that whereas ſometime ſince, nothing was heard from thence but <hi>Thunder</hi> againſt <hi>Diſſenters,</hi> with the ter<g ref="char:EOLhyphen"/>rible Noiſe of their <hi>Spirit</hi> of <hi>Obſtinacy</hi> and <hi>Diſobedience,</hi> of <hi>Rebellion</hi> the Sin of Witch<g ref="char:EOLhyphen"/>craft, of their being <hi>Schiſmatics</hi> againſt the <hi>True Church;</hi> and that nothing was ſo proper to reduce them into a Chriſtian Temper and within the <hi>Pale,</hi> as the ſe<g ref="char:EOLhyphen"/>vere <hi>Execution</hi> of the <hi>Laws,</hi> as Summon<g ref="char:EOLhyphen"/>ing to the <hi>commons,</hi> Seiſing and Impri<g ref="char:EOLhyphen"/>ſoning, <hi>&amp;c.</hi> Now all this <hi>Storm</hi> is clear'd up into a perfect <hi>Calm,</hi> and inſtead of <hi>Force</hi> and <hi>Rigor,</hi> we hear nothing now but of <hi>Fair Invitations,</hi> and moſt <hi>Obliging Calls</hi> to a <hi>Peaceable <g ref="char:V">Ʋ</g>nion;</hi> there being now no Difference to be heard of betwixt us, but only of a Few <hi>Indifferent Ceremo<g ref="char:EOLhyphen"/>nies,</hi>
+               <pb n="2" facs="tcp:100737:2"/>and that otherwiſe, <hi>We</hi> are all <hi>Joint-Members</hi> with <hi>You</hi> of the <hi>ſame Church.</hi> This Change, I ſay, We are all very Senſible of. And as for a <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> and a good Correſpondence, you may be aſ<g ref="char:EOLhyphen"/>ſur'd, we are all ſo in love with <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> and <hi>Peace,</hi> that we could heartily wiſh, to ſee all Chriſtians at this day, as they were in the time of the Apoſtles, of <hi>One Spirit,</hi> and of <hi>One Mind.</hi> But you know what has hinder'd us hitherto from <hi>Joyning</hi> with <hi>Your Church;</hi> We have always ſuſpected You for <hi>Papiſts in Maſquerade;</hi> The ma<g ref="char:EOLhyphen"/>ny <hi>Ceremonies</hi> You have retain'd, Your <hi>Croſſes,</hi> and <hi>Altars,</hi> and <hi>Tapers,</hi> and <hi>Sur<g ref="char:EOLhyphen"/>plices,</hi> and <hi>Bowings;</hi> Your <hi>Confeſſions</hi> and <hi>Abſolutions,</hi> and <hi>Maſs-Forms</hi> of Prayer, <hi>&amp;c.</hi> have oblig'd us to theſe Thoughts; and that tho' you pretend to have left <hi>Babylon,</hi> yet by the <hi>Rags</hi> and <hi>Livery</hi> you brought along with you, we could not but ſtill ſuſpect you of her <hi>Retinue.</hi>
+            </p>
+            <p>Of late indeed you have given us ſome Reaſon to change our Opinion; whilſt <hi>Popery</hi> making ſome approaches to you, and even ſtanding at your Doors, you have given her ſuch <hi>Sour Entertainment,</hi> and treated her with ſo much <hi>Severity,</hi> as if in reality you had no Kindneſs for her. This, I ſay, is ſome Motive to us, to change our former Opinion of you, And yet on the other hand, I ſee ſo many <hi>Deceits</hi> in <hi>Villanous Man,</hi> that I cannot tell how, but to be <hi>Jealous</hi> ſtill. I fear <hi>Your Religion,</hi> may, like the <hi>Weather,</hi> have its different <hi>Seaſons</hi> and <hi>Returns.</hi> And as ſometimes the <hi>Diſſenters</hi> from the Influ<g ref="char:EOLhyphen"/>ence of your Church, lie under a ſevere and nipping <hi>Winter,</hi> and at other times again enjoy a warm and inviting <hi>Sun<g ref="char:EOLhyphen"/>ſhine;</hi> ſo you may be as changeable in reſpect of the <hi>Papiſts</hi> too, ſometimes for 'em and ſometimes againſt 'em; and yet be the ſame <hi>Old Church of England</hi> ſtill, like the Sun, which making different Seaſons and Changes in the Year, yet ne<g ref="char:EOLhyphen"/>ver changes it ſelf. And this Conſidera<g ref="char:EOLhyphen"/>tion do's not leave me without ſome Fears and Jealouſies. I apprehend you have a way of <hi>promoting Popery,</hi> and yet being againſt the <hi>Papiſts;</hi> and that if we joyn with you, we may be inſtructed in <hi>real Popery,</hi> whilſt we are taught to <hi>hate</hi> the <hi>Papiſts;</hi> and if ſo, I do not ſee, but it would be the ſame thing to joyn with the <hi>Papiſts,</hi> as with you.</p>
+            <p>This Jealouſie of mine has been ſtrengthned of late by ſome of your Wri<g ref="char:EOLhyphen"/>tings, and moſt eſpecially by one, which appear'd lately, Entitled, <hi>An Anſwer to the Compiler of the Nubes Teſtium,</hi> where<g ref="char:EOLhyphen"/>in the <hi>Author,</hi> whilſt he ſeverely lets fly againſt the <hi>Papiſts,</hi> do's at the ſame time maintain and propagate ſuch <hi>Doctrins,</hi> as I have ever look'd upon, as the very Eſ<g ref="char:EOLhyphen"/>ſence and Groundwork of <hi>Popery.</hi> You'll give me leave to make a ſhort Liſt of ſuch as I have obſerv'd in the peruſing that Book; and then if you will give me your Opinion, and let me know, whether really they are conformable to the <hi>Doctrin</hi> of <hi>your Church,</hi> 'twill ſerve as a Light to direct us, what to do, whilſt you invite us to joyn Communion with you.</p>
+            <p>Firſt then he ſays, <hi>(p. 8.) That he can grant, that the Biſhop of</hi> Rome <hi>is the</hi> Suc<g ref="char:EOLhyphen"/>ceſſor <hi>of S.</hi> Peter. 2. <hi>That</hi> that <hi>See is the Center of the Catholic Communion, while poſſeſt by an Orthodox Biſhop.</hi> 3, <hi>That who<g ref="char:EOLhyphen"/>ſoever</hi> Separates <hi>himſelf from it profeſſing the true Faith, and poſſeſſed by a Catholic Biſhop, is guilty of</hi> Schiſm, (p. 37.) 4. He <hi>doubts whether there be really any Comro<g ref="char:EOLhyphen"/>verſie about</hi> Tradition, <hi>betwixt the Church of</hi> Rome <hi>and the Church of</hi> England. 5. <hi>That the</hi> Tradition <hi>of the Catholic Church is to be receiv'd.</hi> 6. <hi>That by</hi> Tra<g ref="char:EOLhyphen"/>dition <hi>we receive the Holy</hi> Scriptures, <hi>and know how to ſeparate the</hi> Scriptures <hi>from</hi> Apocryphal <hi>or Suppoſititious Writings.</hi> 7. <hi>That he is willing and ready to receive</hi> any Doctrin not written, <hi>that hath as perpetual, unanimous, and certain a Tradition as the Scripture; and that he only waits for the proving this, and then be is ready to em<g ref="char:EOLhyphen"/>brace all the Doctrins of Popery,</hi> (p. 38.)
+<pb n="3" facs="tcp:100737:2"/>8. <hi>That there is no neceſſity of</hi> expreſs Scripture <hi>for the</hi> Conſtitutions <hi>and</hi> Pra<g ref="char:EOLhyphen"/>ctices, <hi>which his Church enjoyns, in order to the more regular and decent Service of God,</hi> (p. 41.) 9. <hi>That the</hi> Tradition of An<g ref="char:EOLhyphen"/>tiquity <hi>is highly uſeful and</hi> neceſſary <hi>for the</hi> Interpretation <hi>of Points of</hi> Faith, (p. 43.) 10. <hi>That he</hi> Honors <hi>the</hi> Saints, <hi>in obſerving Days in honor of them: And ſeems to grant all that is produc'd in</hi> Nubes Teſtium <hi>upon that Subject,</hi> viz. <hi>In viſiting Churches in honor of the Saints, whoſe Me<g ref="char:EOLhyphen"/>mory is there preſerv'd; in aſſembling toge<g ref="char:EOLhyphen"/>ther in honor of the Saints, and Celebrating their Memory with a</hi> Religious Solemnity, <hi>ſo to be partakers of their Merits.</hi> 11. <hi>That it is generally piouſly believ'd, that the glori<g ref="char:EOLhyphen"/>fi'd Saints do</hi> Intercede <hi>for the Church</hi> Mi<g ref="char:EOLhyphen"/>litant, (p. 49.) 12. <hi>That the Honor, which in Primitive Times was paid to the</hi> Memories <hi>of</hi> Saints, <hi>was nothing but what was</hi> highly juſt, <hi>and that herein they are</hi> Imitated by us, <hi>ſays he, as well as by any other Chriſtians,</hi> (p. 50.) 13. <hi>That the Fathers kept the</hi> Relics <hi>of Saints with</hi> Re<g ref="char:EOLhyphen"/>ſpect <hi>and</hi> Veneration, <hi>and believ'd that God often wrought Miracles by them, and</hi> they might do it too, <hi>ſays this Author,</hi> (p. 51.) 14. <hi>That the</hi> Fathers <hi>practis'd</hi> Praying for the Dead; <hi>and own'd it as advantageous to the Souls departed: Every word of which</hi> we freely grant, <hi>ſays this Author,</hi> (p. 53.) <hi>That the Fathers in the Firſt Ages us'd</hi> Oblations <hi>and</hi> Prayers for the Dead, no body denies, <hi>ſays he. We do confeſs withall, That theſe Prayers were offer'd up alſo</hi> for pardon of Sins, (p. 65.) 15. <hi>That it is the Opinion of his Church, that Chriſt's</hi> Body <hi>is</hi> really preſent <hi>in the</hi> Eucha<g ref="char:EOLhyphen"/>riſt, (p. 66.) 16. <hi>That that Conſecrated Food is the Fleſh and Blood of Jeſus Chriſt.</hi>
+            </p>
+            <p>Theſe are ſome of the Points, which I obſerv'd in reading that Book; and here for a better underſtanding, I deſire to know of you, Whether theſe are truly and really your Doctrine. The Book, I ſee, has the Standard Mark; 'tis <hi>Li<g ref="char:EOLhyphen"/>cens'd</hi> by the Archbiſhop of <hi>Canterbury</hi>'s Chaplain; and ſo muſt be ſuppos'd to contain nothing, but what is agreeable to <hi>your Church.</hi> And if ſo, how can we chooſe but be <hi>Jealous</hi> of your <hi>Calls</hi> to <hi>
+                  <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>on,</hi> and <hi>Fair Invitations,</hi> whilſt we ſee you holding out <hi>Reformation</hi> in one Hand, and ſo much <hi>Popery</hi> in the other? What means your ſo Good Opinion of the <hi>Pope;</hi> of <hi>Tradition,</hi> of <hi>honouring</hi> the <hi>Saints;</hi> of their <hi>Interceſſion for us;</hi> of <hi>honouring</hi> their <hi>Memories</hi> or <hi>Monuments;</hi> of owing a <hi>Reſpect</hi> and <hi>Veneration</hi> due to their <hi>Re<g ref="char:EOLhyphen"/>lics;</hi> of allowing <hi>Prayers</hi> for the <hi>Souls de<g ref="char:EOLhyphen"/>parted,</hi> as <hi>advantagious</hi> to them, and for the <hi>Pardon of their Sins;</hi> of believing Chriſt's <hi>Body to be really preſent in the Sa<g ref="char:EOLhyphen"/>crament,</hi> and that <hi>it is</hi> his <hi>Fleſh</hi> and <hi>Blood?</hi> What means, I ſay, all this? Is this the <hi>Doctrine</hi> of <hi>your Church,</hi> to which you invite us to joyn? If it be, I muſt tell you plainly, You are the Men, I always took you to be, if not <hi>Papiſts</hi> altogether; at the beſt, but like thoſe <hi>Imperfect Ani<g ref="char:EOLhyphen"/>mal</hi>'s of <hi>Aegypt,</hi> which beginning to <hi>move</hi> out of <hi>Mother-dirt,</hi> are left unfiniſh'd, and in <hi>Colour,</hi> and <hi>Scent,</hi> and the <hi>greateſt part</hi> are nothing but <hi>Mother-dirt</hi> ſtill; and into it do naturally <hi>return.</hi> For my Part, if I could come ſo near <hi>Popery</hi> as this, I ſhould make no Difficulty of taking t'o<g ref="char:EOLhyphen"/>ther Step. For 'tis thither all this do's naturally tend.</p>
+            <p>What we deſire therefore is, That in all your Exhortations to <hi>
+                  <g ref="char:V">Ʋ</g>nion,</hi> you would ſuppoſe us to be <hi>rational Men,</hi> and not willing to do any thing, till we <hi>ſee</hi> and <hi>know</hi> what it is we are to do. If you would have us <hi>
+                  <g ref="char:V">Ʋ</g>nite,</hi> let us know, to what we are to unite; give us a Scheme of <hi>your Doctrines,</hi> of your <hi>Practices,</hi> to which you expect our <hi>Submiſſion</hi> and <hi>Aſſent.</hi> And when we have this before us, upon Conſideration, we ſhall be better able to know what to do. And particularly, as to the Points above, if they be according to your Church, tell us ſo: If they be not, be plain with us, and condemn them. Who knows but the <hi>Author</hi> of
+<pb n="4" facs="tcp:100737:3"/>theſe Poſitions may be ſome <hi>Jeſuit in Diſ<g ref="char:EOLhyphen"/>guiſe,</hi> who under a Feign'd Shew of <hi>de<g ref="char:EOLhyphen"/>feating Popery,</hi> deſigns nothing more than to <hi>promote it?</hi>
+            </p>
+            <p>One other Point I deſire you to add to theſe, which is that mention'd by Dr. <hi>Til<g ref="char:EOLhyphen"/>lotſon,</hi> in his Sermon at <hi>Whitehal, April</hi> 4. 1679. p. 17. Where he ſays, That <hi>Pri<g ref="char:EOLhyphen"/>vate Perſons</hi> in underſtanding obſcure Texts of Scripture, and the <hi>more difficult Points</hi> in Religion, muſt <hi>rely upon their Guides: Becauſe in theſe Caſes,</hi> ſays he, <hi>every Man is not capable of judging himſelf, and therefore he muſt neceſſarily</hi> truſt <hi>others:</hi> and likewiſe ſubmit to what is <hi>determin'd and eſtabliſh'd by public Conſent and Authori<g ref="char:EOLhyphen"/>ty,</hi> unleſs upon clear Evidence of the Falſhood or Unlawfulneſs of it: And in Caſe Men be <hi>perverſe and Diſobedient, Au<g ref="char:EOLhyphen"/>thority is Judg, and may reſtrain and puniſh them.</hi> To this Point I deſire you to ſpeak clear and plain, that ſo if we come to you, we may know, Whether in any Points of <hi>Religion,</hi> we muſt neceſſarily go <hi>blindfold,</hi> and <hi>rely</hi> upon others: And that if we cannot ſubmit to all that is deter<g ref="char:EOLhyphen"/>min'd by <hi>your Authority,</hi> we muſt be un<g ref="char:EOLhyphen"/>avoidably <hi>reſtrain'd and puniſh'd.</hi> This Point is of ſome concern, becauſe this <hi>truſting</hi> to others Judgment in Matters of <hi>Doctrin,</hi> joyn'd with that of <hi>Tradition</hi> abovemention'd, which authoriſes <hi>Conſti<g ref="char:EOLhyphen"/>tutions</hi> and <hi>Practices</hi> without any Authori<g ref="char:EOLhyphen"/>ty of the <hi>written Word;</hi> we can eaſily foreſee, whither they lead; what is there that may not be impos'd upon us, upon theſe Principles; Whilſt we in the mean time, muſt be oblig'd either to <hi>ſubmit,</hi> or elſe be <hi>puniſh'd</hi> as <hi>perverſe</hi> and <hi>Diſobedient?</hi> Be poſitive in laying open theſe things to us: Let us know, <hi>which</hi> are the <hi>Difficult Points,</hi> which we muſt neceſſarily <hi>truſt</hi> to others, and <hi>how many</hi> they are; that ſo we may know the End of our <hi>Belief.</hi>
+            </p>
+            <p>We deſire Satisfaction in theſe Par<g ref="char:EOLhyphen"/>ticulars, and when this is done, we ſhall know better how to follow your <hi>Calls.</hi> You'l pardon this Importunity, and in a Friendly Anſwer conſider our <hi>Circum<g ref="char:EOLhyphen"/>ſtances;</hi> make things as favourable as you can; and above all things remember, That to hear little of <hi>Truſting,</hi> and leſs of <hi>Puniſhing,</hi> will be moſt acceptable to,</p>
+            <closer>
+               <salute>Reverend Sirs,</salute> 
+               <signed>Yours.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed, and are to be ſold by <hi>Randal Taylor,</hi> near <hi>Stati<g ref="char:EOLhyphen"/>oners-Hall.</hi> MDCLXXXVII.</p>
+            <pb facs="tcp:100737:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
